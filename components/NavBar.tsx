@@ -45,7 +45,7 @@ const NavBar: React.FC = () => {
             {/* Right Actions */}
             <div className="flex items-center gap-6">
               <a
-                href="https://www.icloud.com/iclouddrive/065P9ZWui-FztOSFCwykw9B7g#Gagan_CV"
+                href="https://www.icloud.com/iclouddrive/09fO8RdBc0bvyDWO9Ru5lhEwg#Gagan_CV"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
